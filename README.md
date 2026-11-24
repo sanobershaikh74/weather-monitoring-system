@@ -26,6 +26,9 @@ An ESP32-based environmental monitoring project developed for **BTEC13701 – Em
 | SSD1306 SCL | GPIO 22 | I²C |
 | OLED I²C address | 0x3C | Confirm your module address |
 
+<img width="804" height="557" alt="image" src="https://github.com/user-attachments/assets/1f339cd7-d578-4121-bdea-0acdde26c2fa" />
+
+
 ### Electrical safety
 
 - **Never apply more than 3.3 V to an ESP32 GPIO or ADC input.**
