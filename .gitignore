@@ -1,0 +1,26 @@
+# ESP-IDF build output
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+
+# Python / ESP-IDF helper files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials and secrets
+main/secrets.h
+secrets.h
+.env
+.env.*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
